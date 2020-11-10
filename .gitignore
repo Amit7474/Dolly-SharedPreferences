@@ -1,7 +1,7 @@
 *.iml
 .gradle
 /local.properties
-/.idea
+.idea
 /.idea/modules.xml
 /.idea/workspace.xml
 /.idea/navEditor.xml
