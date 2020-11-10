@@ -1,0 +1,3 @@
+include ':Dolly'
+include ':app'
+rootProject.name = "SampleApplication"
