@@ -8,6 +8,7 @@
 **Dolly implements the logic for you, you just need to use it.**<br>
 
 [![](https://jitpack.io/v/Amit7474/Dolly-SharedPreferences.svg)](https://jitpack.io/#Amit7474/Dolly-SharedPreferences)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Dolly%20for%20SharedPreferences-blue.svg?style=flat)](https://android-arsenal.com/details/1/8189)
 
 # Download
 ## Requirement
